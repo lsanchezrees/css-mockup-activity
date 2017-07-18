@@ -75,10 +75,13 @@ header em {
 	margin-left: 20px;
 }
 
+section {
+	padding: 25px;
+}
 .first-panel {
 	border: solid 3px #ff8b00;
-	margin: 25px 50px;
-	padding: 25px;
+	margin: 75px;
+
 }
 
 .instructions {
@@ -97,7 +100,7 @@ img {
 .pull-right img {
 
 	border: solid 2px gray;
-	margin-left: 50px;
+	margin-left: 10px;
 }
 
 img.pull-left {
@@ -105,18 +108,36 @@ img.pull-left {
 }
 .section-one {
 	background-color: #D3D3D3;
-	padding: 50px;
+
 }
 .section-two h2{
 	color: #ff8b00;
 	text-align: right;
 	font-size: 2em;
 }
+
+.emphasis {
+	font-family: 'IM Fell Double Pica', serif;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 1.2em;
+}
 table {
 	color: white;
 	background-color: #ff8b00;
+	border-collapse: collapse;
+	border: solid 1px white;
+	width: 100%;
 }
 
-tr {
-	border-bottom: solid 2px white;
+table td, table th {
+	border: solid 1px white;
+	padding: 15px;
+	text-align: left;
+}
+footer {
+	color: gray;
+	background-color: black;
+	padding: 25px;
+	margin-top: 50px;
 }
