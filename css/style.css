@@ -86,12 +86,37 @@ header em {
 }
 .pull-left {
 	float: left;
+	margin: 20px;
 }
-.pull-right {
+
+img {
+	width: 300px;
+	height: auto;
 
 }
 .pull-right img {
-	width: 300px;
-	height: auto;
+
 	border: solid 2px gray;
+	margin-left: 50px;
+}
+
+img.pull-left {
+	border: solid 2px white;
+}
+.section-one {
+	background-color: #D3D3D3;
+	padding: 50px;
+}
+.section-two h2{
+	color: #ff8b00;
+	text-align: right;
+	font-size: 2em;
+}
+table {
+	color: white;
+	background-color: #ff8b00;
+}
+
+tr {
+	border-bottom: solid 2px white;
 }

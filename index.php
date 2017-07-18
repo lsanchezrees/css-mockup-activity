@@ -47,7 +47,7 @@
 				</section>
 
 				<!-- SECTION ONE -->
-				<section>
+				<section class="section-one">
 					<div class="container">
 						<img class="pull-left" src="images/stunning.jpg" alt="captain picard" />
 						<h2>A Day in the Life...</h2>
@@ -58,7 +58,7 @@
 				</section>
 
 				<!-- SECTION TWO -->
-				<section>
+				<section class="section-two">
 					<div class="container">
 						<h2>Summary of Profe$$ional Skillz</h2>
 						<table>
