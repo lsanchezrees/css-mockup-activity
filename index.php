@@ -25,7 +25,7 @@
 			<main>
 
 				<!-- INSTRUCTIONS PANEL -->
-				<section class="first-panel">
+				<section>
 					<div class="container">
 						<div class="instructions">
 							<div class="pull-left">
