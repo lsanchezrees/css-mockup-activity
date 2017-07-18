@@ -53,3 +53,45 @@ body { width: 100%;}
 /*****************************************************
 * ADD YOUR OWN CSS BELOW! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 ******************************************************/
+html {
+	font-family: 'Roboto', sans-serif;
+}
+
+
+header {
+	background-color: #ff8b00;
+	color: white;
+	padding: 40px;
+}
+
+header h1 {
+	font-size: 4em;
+	display: inline;
+
+}
+
+header em {
+	display: inline;
+	margin-left: 20px;
+}
+
+.first-panel {
+	border: solid 3px #ff8b00;
+	margin: 25px 50px;
+	padding: 25px;
+}
+
+.instructions {
+	color: #ff8b00;
+}
+.pull-left {
+	float: left;
+}
+.pull-right {
+
+}
+.pull-right img {
+	width: 300px;
+	height: auto;
+	border: solid 2px gray;
+}

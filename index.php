@@ -6,6 +6,8 @@
 
 		<!-- custom CSS stylesheet -->
 		<link rel="stylesheet" href="css/style.css" type="text/css" />
+		<!-- link for fonts -->
+		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 
 		<title>CSS Mockup Activity</title>
 	</head>
@@ -22,7 +24,7 @@
 			<main>
 
 				<!-- INSTRUCTIONS PANEL -->
-				<section>
+				<section class="first-panel">
 					<div class="container">
 						<div class="instructions">
 							<div class="pull-left">
