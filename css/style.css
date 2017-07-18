@@ -100,7 +100,8 @@ img {
 .pull-right img {
 
 	border: solid 2px gray;
-	margin-left: 10px;
+	margin-right: 25px;
+	float: right;
 }
 
 img.pull-left {
@@ -123,6 +124,7 @@ img.pull-left {
 	font-size: 1.2em;
 }
 table {
+	margin: 25px;
 	color: white;
 	background-color: #ff8b00;
 	border-collapse: collapse;
